@@ -1,5 +1,5 @@
 # CPE322A
-# # Class repo for CPE 322 A 
+## Class repo for CPE 322 A 
 *Assignment 0 for CPE 322 A*
 **Need to finish this assignment by _Saturday January 28_ for full credit**
 Sample git code
@@ -23,7 +23,11 @@ def collatz():
             print(number)
 ```
 [Class Canvas Page](https://sit.instructure.com/courses/64902)
+
+
 ![This is an image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.qpHsUsFDoRIEIsS_7AZh0QHaHQ%26pid%3DApi&f=1&ipt=fa76085ef5c81c125bfbb6fcb702deb09fd6e93a29cae3f59208b83544784321&ipo=images)
+
+
 Need to learn about
 + Automation
 + Linux
