@@ -1,7 +1,13 @@
 # CPE322A
 ## Class repo for CPE 322 A 
+
+
 *Assignment 0 for CPE 322 A*
+
+
 **Need to finish this assignment by _Saturday January 28_ for full credit**
+
+
 Sample git code
 ```
 git pull
