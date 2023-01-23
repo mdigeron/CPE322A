@@ -37,7 +37,11 @@ A Sample Image
 Need to learn about
 + Automation
 + Linux
++ Python
 + Cloud Computing
-+ Computer Networking
++ Computer Networking/Security
++ Docker/Kubernetes
++ AI/ML
++ Rust
 + and more
 
