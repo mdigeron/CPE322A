@@ -54,4 +54,7 @@ Need to learn about
 When using the python library `pillow` to modifly images make sure to include `from PIL import Image` at the top of your document
 
 A Kea Parrot
+
+
+
 ![Kea Parrot](http://i.imgur.com/CJjIDlJ.gif)
