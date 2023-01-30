@@ -30,7 +30,7 @@ def collatz():
 ```
 [Class Canvas Page](https://sit.instructure.com/courses/64902)
 
-A Sample Image
+A Sample Image `rgb(15, 155, 155)`
 ![This is an image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.qpHsUsFDoRIEIsS_7AZh0QHaHQ%26pid%3DApi&f=1&ipt=fa76085ef5c81c125bfbb6fcb702deb09fd6e93a29cae3f59208b83544784321&ipo=images)
 
 
@@ -46,6 +46,6 @@ Need to learn about
 + and more
 
 
-> quote test
+> quote test using markdown
 
 When using the python library `pillow` to modifly images make sure to include `from PIL import Image` at the top of your document
