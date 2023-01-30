@@ -45,3 +45,7 @@ Need to learn about
 + Rust
 + and more
 
+
+> quote test
+
+When using the python library `pillow` to modifly images make sure to include `from PIL import Image` at the top of your document
