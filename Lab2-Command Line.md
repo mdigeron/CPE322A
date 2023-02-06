@@ -211,9 +211,8 @@ Active Connections
 
 ## EXTRA COMMANDS
 
-Linux Commands: https://www.youtube.com/watch?v=gd7BXuUQ91w
+[Linux Commands](https://www.youtube.com/watch?v=gd7BXuUQ91w)
 
 
-
-Windows Commands: https://www.youtube.com/watch?v=Jfvg3CS1X3A
+[Windows Commands](https://www.youtube.com/watch?v=Jfvg3CS1X3A)
 
