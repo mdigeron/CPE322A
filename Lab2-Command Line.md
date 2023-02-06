@@ -207,9 +207,17 @@ Active Connections
   TCP    [::1]:49687            DESKTOP-1PVTB6G:49686  ESTABLISHED
 ```
 
+neofetch
+
+
+![Screenshot (531)](https://user-images.githubusercontent.com/97755080/217105322-44b81651-fff2-41f1-bf2e-b1229dd0563e.png)
+
+
 
 
 ## EXTRA COMMANDS
+
+
 
 [Linux Commands](https://www.youtube.com/watch?v=gd7BXuUQ91w)
 
