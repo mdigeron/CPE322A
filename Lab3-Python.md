@@ -3,6 +3,20 @@
 
 https://stackoverflow.com/questions/54908364/how-do-i-set-default-python-in-windows 
 
+When using the Command Line Interface to run python scripts use ``` py ``` command instead of ``` python3 ``` to use the latest 
+installed version of python on your machine
+
+
+```
+python3 test.py
+```
+
+Instead use
+
+```
+py test.py
+```
+
 **installing required packages**
 
 
