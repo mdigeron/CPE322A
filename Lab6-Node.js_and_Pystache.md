@@ -32,5 +32,10 @@ Acessed localhost:8080 on [Brave Browser](https://brave.com/download/)
 
 **install pystache**
 
+![Screenshot (615)](https://user-images.githubusercontent.com/97755080/220406112-d9fd22f6-8ece-450a-81f3-0de8e3e95e89.png)
+
 **say_hello.py**
+
+![Screenshot (616)](https://user-images.githubusercontent.com/97755080/220406635-04fd01a3-018a-4d76-a400-8c193d839789.png)
+
 
