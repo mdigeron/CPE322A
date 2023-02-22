@@ -3,9 +3,13 @@
 
 **Sign up and log in MathWorks ThingSpeak**
 
+Note: may have trouble loading sign in page if you have a [VPN](https://en.wikipedia.org/wiki/VPN_service) running.
 
 **Run thingspeak_cpu_loop.py or thinkspeak_feed.py in a demo folder**
 
+![Screenshot (629)](https://user-images.githubusercontent.com/97755080/220673873-56cfbcb0-f568-4d29-9178-b92e958de63d.png)
+
+![Screenshot (630)](https://user-images.githubusercontent.com/97755080/220674121-939d33ef-8d68-4878-ab6c-74834ea13b58.png)
 
 **Install gspread and oauth2client**
 
