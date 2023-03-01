@@ -25,9 +25,11 @@
 
 ![Screenshot (680)](https://user-images.githubusercontent.com/97755080/222154897-90ef0558-c136-4d8e-9f37-fcc061f8081e.png)
 
-![Screenshot (681)](https://user-images.githubusercontent.com/97755080/222155050-fa73f4e4-462a-40f2-9fa5-dd8b322722d4.png)
+![Screenshot (685)](https://user-images.githubusercontent.com/97755080/222156061-1788e223-d296-4486-b6e8-d171bc1a77d3.png)
 
 **Run node_server.py on Terminal 1 and run_app.py on Terminal 2**
+
+![Screenshot (681)](https://user-images.githubusercontent.com/97755080/222155050-fa73f4e4-462a-40f2-9fa5-dd8b322722d4.png)
 
 ![Screenshot (682)](https://user-images.githubusercontent.com/97755080/222155080-17722083-10c7-4d50-8e1f-759f601afeab.png)
 
