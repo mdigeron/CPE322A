@@ -44,3 +44,26 @@ Note: same error encounter when attempting lab on wsl2
 
 ![Screenshot (653)](https://user-images.githubusercontent.com/97755080/221687012-c11692cb-de9c-46c5-b420-ae825dbabf5d.png)
 
+
+Updates:
+used updated cpudata2.csv
+also changed Tempurature C to Memory Avaliable GB in plt_final.py 
+
+![Screenshot (692)](https://user-images.githubusercontent.com/97755080/222973961-7fb48e10-cd4f-45a0-bf48-393460457380.png)
+
+**Run plt_final.py and plt_cv2.py (Version 2)**
+
+![Screenshot (693)](https://user-images.githubusercontent.com/97755080/222974085-4f6973ae-5735-42a2-8abe-48e5603bba6c.png)
+
+![Screenshot (694)](https://user-images.githubusercontent.com/97755080/222974091-228053f8-8f73-4af0-824b-795d224bd471.png)
+
+![Screenshot (695)](https://user-images.githubusercontent.com/97755080/222974097-5a1ebde3-d4fc-49a7-b8f0-441063121452.png)
+
+![Screenshot (696)](https://user-images.githubusercontent.com/97755080/222974110-3f0122cf-23c5-49ef-bd13-4b0c9098e13a.png)
+
+![Screenshot (697)](https://user-images.githubusercontent.com/97755080/222974114-a928eecb-8524-4a49-8542-d47ed02b3864.png)
+
+![Screenshot (698)](https://user-images.githubusercontent.com/97755080/222974120-bda5baa0-5d1b-4d7f-b29a-85ed83446794.png)
+
+![Screenshot (699)](https://user-images.githubusercontent.com/97755080/222974169-9560d3e1-e51f-4a32-81d9-bc8c569b32e8.png)
+
