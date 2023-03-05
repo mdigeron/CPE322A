@@ -39,3 +39,12 @@ Note: may have trouble loading sign in page if you have a [VPN](https://en.wikip
 
 edited formating 
 ![Screenshot (626)](https://user-images.githubusercontent.com/97755080/220481933-0b2aa584-27ff-4fdf-9e52-b1e159f064c3.png)
+
+Updates:
+first attempt at lab did not have enough data
+**cpudata2**
+
+![Screenshot (690)](https://user-images.githubusercontent.com/97755080/222973775-923be599-9c85-4736-8130-6f68bff7789f.png)
+
+![Screenshot (691)](https://user-images.githubusercontent.com/97755080/222973780-44f42d66-546b-4493-b8ea-0b7f3ad1387e.png)
+
