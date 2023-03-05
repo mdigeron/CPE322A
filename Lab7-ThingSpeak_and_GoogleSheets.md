@@ -42,6 +42,7 @@ edited formating
 
 Updates:
 first attempt at lab did not have enough data
+
 **cpudata2**
 
 ![Screenshot (690)](https://user-images.githubusercontent.com/97755080/222973775-923be599-9c85-4736-8130-6f68bff7789f.png)
