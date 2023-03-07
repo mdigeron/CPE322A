@@ -53,17 +53,18 @@ also changed Tempurature C to Memory Avaliable GB in plt_final.py
 
 **Run plt_final.py and plt_cv2.py (Version 2)**
 
-![Screenshot (693)](https://user-images.githubusercontent.com/97755080/222974085-4f6973ae-5735-42a2-8abe-48e5603bba6c.png)
+![Screenshot (700)](https://user-images.githubusercontent.com/97755080/223432826-1416604a-1a02-4867-a07e-48224731fa24.png)
 
-![Screenshot (694)](https://user-images.githubusercontent.com/97755080/222974091-228053f8-8f73-4af0-824b-795d224bd471.png)
+![Screenshot (701)](https://user-images.githubusercontent.com/97755080/223432846-5ae0b3b5-f423-4056-bead-0ae60a366565.png)
 
-![Screenshot (695)](https://user-images.githubusercontent.com/97755080/222974097-5a1ebde3-d4fc-49a7-b8f0-441063121452.png)
+![Screenshot (702)](https://user-images.githubusercontent.com/97755080/223432871-58ed8a1d-a293-47da-8d69-4b2ca05a4867.png)
 
-![Screenshot (696)](https://user-images.githubusercontent.com/97755080/222974110-3f0122cf-23c5-49ef-bd13-4b0c9098e13a.png)
+![Screenshot (703)](https://user-images.githubusercontent.com/97755080/223432891-4c0313a9-cf74-453d-8bca-b8001efa446b.png)
 
-![Screenshot (697)](https://user-images.githubusercontent.com/97755080/222974114-a928eecb-8524-4a49-8542-d47ed02b3864.png)
+![Screenshot (704)](https://user-images.githubusercontent.com/97755080/223432925-0aed45b5-c340-4da2-8ab7-b180e3c4f043.png)
 
-![Screenshot (698)](https://user-images.githubusercontent.com/97755080/222974120-bda5baa0-5d1b-4d7f-b29a-85ed83446794.png)
+![Screenshot (705)](https://user-images.githubusercontent.com/97755080/223432947-e208e8c2-6d8f-473b-8e49-6755f5a29095.png)
 
-![Screenshot (699)](https://user-images.githubusercontent.com/97755080/222974169-9560d3e1-e51f-4a32-81d9-bc8c569b32e8.png)
+![Screenshot (706)](https://user-images.githubusercontent.com/97755080/223432971-827abd1f-335b-4a85-8fc4-313faecc22df.png)
+
 
